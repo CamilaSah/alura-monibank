@@ -3,13 +3,24 @@
 
 <h1>Validação de formulário - Monibank</h1>
 Este projeto foi desenvolvido com o curso JavaScript: validando formulários, no qual foi proposto implementar validações nos campos do formulário de cadastro do banco virtual Monibank e implementar a página de reconhecimento facial do nosso formulário, ou seja, a pessoa usuária seria capaz de capturar uma imagem sua com a câmera. O código do projeto já veio com o HTML e o CSS prontos, para focarmos no desenvolvimento do JavaScript.
+<br>
+<br>
 
 ## :hammer: Funcionalidades do projeto
 - `Validar campos do formulário`: quando o usuário não preencher o campo ou preencher de forma incorreta, aparecerá uma mensagem de erro embaixo do campo, impossibilitando a finalização do cadastro.
 - `Capturar a sua foto`: quando o usuário clicar no "rostinho sorridente", permitir o acesso à câmera e clicar no botão "Tirar foto", a sua foto será capturada e aparecerá a mensagem "Prontinho, imagem capturada!".
 - `Criar conta`: quando o usuário preencher todos os campos do formulário corretamente e clicar no botão "avançar", tirar uma foto e clicar no botão "Quero abrir minha conta", a conta será criada.
 
+![apresentacao-alura-monibank-cadastro840-min](https://github.com/CamilaSah/alura-monibank/assets/128820692/1d4b6a3a-f9e3-49ac-986f-c6355e389a51)
+![apresentacao-alura-monibank-foto840](https://github.com/CamilaSah/alura-monibank/assets/128820692/66691654-f463-4f1d-b3e4-dc6eb53aaa12)
+<br>
+<br>
+
 ## 📁 Acesso ao projeto
+
+Você pode acessar o projeto clicando [aqui](https://alura-monibank-one.vercel.app/).
+<br>
+<br>
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -50,6 +61,7 @@ Tecnologias e ferramentas utilizadas:
 - ``Git``: ferramenta de controle de versão de seu arquivo, projeto ou código. 
 - ``GitHub``: plataforma para gerenciar seu código e criar um ambiente de colaboração entre devs (permite compartilhamento de código através da criação de repositórios), utilizando o Git como sistema de controle.
 - ``Vercel``: colocar o projeto no ar e compartilhar com o mundo.
+<br>
 
 ## 📚 Mais informações do curso
 Gostou do projeto e quer conhecer mais? Você pode acessar o curso que me ajudou a desenvolver o projeto desde o começo! 
